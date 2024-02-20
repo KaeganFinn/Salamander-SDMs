@@ -2,7 +2,7 @@
 Author: Kaegan J. Finn
 Contact: kaeganfinn@gmail.com
 
-This repository contains data for manuscript: ____available from: ___
+This repository contains data for manuscript: Finn, K. J., Bergman, J. C., & Lee-Yaw, J. A. (2024). Deciding where to put them: sensitivity tests and independent evaluation are critical when using species distribution models to inform conservation translocations. Code available at Zenodo. https://doi.org/10.5281/zenodo.10578463
 
 Folder Descriptions
 
