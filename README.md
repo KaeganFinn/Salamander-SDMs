@@ -6,7 +6,7 @@ This repository contains data for manuscript: Finn, K. J., Bergman, J. C., & Lee
 
 Folder Descriptions
 
-EnvironmentalVariables: Folder of the 9 environmental variables used to produce Species Distribution Models (SDMs) at their largest extent (long-toed salamander range. See SupMat of main manuscript for acronym definitions. 
+EnvironmentalVariables: Folder of the 9 environmental variables used to produce Species Distribution Models (SDMs) at their largest extent (long-toed salamander range). See SupMat of main manuscript for acronym definitions. 
 
 PredictionSurfaces: Sixteen SDMs (logistic output, .tif files) produced for long-toed salamanders using two different sets of environmental variables, two different types of background points, and four different study extents. 
 
